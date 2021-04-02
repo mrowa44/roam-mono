@@ -1,0 +1,22 @@
+@media (prefers-color-scheme: dark) {
+  html {
+    filter: invert(0.93) hue-rotate(180deg);
+  }
+
+  .roam-body .roam-app .roam-sidebar-container {
+    background: white;
+    border-color: white;
+  }
+
+  #roam-sidebar-logo {
+    filter: invert(100);
+  }
+
+  #roam-sidebar-logo img {
+    filter: invert(0);
+  }
+
+  img, iframe {
+    filter: invert(0.93) hue-rotate(180deg);
+  }
+}
