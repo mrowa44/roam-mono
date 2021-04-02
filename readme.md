@@ -19,4 +19,11 @@ Optionally, it can make it B&W.
 
 # Preview
 
-TODO: add some screenshots
+- roam-dark
+![](/assets/roam-dark.png)
+  
+- roam-mono-light
+![](/assets/roam-mono-light.png)
+  
+- roam-mono-dark
+![](/assets/roam-mono-dark.png)
