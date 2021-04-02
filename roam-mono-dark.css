@@ -1,6 +1,6 @@
 @media (prefers-color-scheme: dark) {
   html {
-    filter: invert(0.93) hue-rotate(180deg) grayscale(1);
+    filter: invert(0.9) hue-rotate(180deg) grayscale(1);
   }
 
   .roam-body .roam-app .roam-sidebar-container {
@@ -17,6 +17,6 @@
   }
 
   img, iframe {
-    filter: invert(0.93) hue-rotate(180deg);
+    filter: invert(1) hue-rotate(180deg);
   }
 }
